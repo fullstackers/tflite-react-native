@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.tflitereactlibrary;
 
 import android.content.res.AssetFileDescriptor;
 import android.content.res.AssetManager;
